@@ -1,0 +1,8 @@
+{
+  "plug":"Tensorflow",
+  "host":"localhost",
+  "port":8080,
+  "hostPort":8082,
+  "key":"change_this_to_something_very_random____make_sure_to_match_main_config_file",
+  "type":"detector"
+}
